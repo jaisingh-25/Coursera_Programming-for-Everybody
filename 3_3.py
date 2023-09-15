@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 23 23:25:13 2023
-
-@author: jaisi
-"""
-
 score = input("Enter Score: ")
 try:
     s=float(score)
