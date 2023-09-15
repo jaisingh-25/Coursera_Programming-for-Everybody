@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 24 22:59:00 2023
-
-@author: jaisi
-"""
-
 largest = None
 smallest = None
 while True:
