@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 23 23:41:52 2023
-
-@author: jaisi
-"""
-
 def computepay(h, r):
     if h<=40:
         pay=h*r
